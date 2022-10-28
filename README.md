@@ -2,6 +2,7 @@
 
 
 int main(){
+
 int n,a,b,c;
 
         printf("Enter Tringale Value of a b c:");
